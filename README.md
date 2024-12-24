@@ -19,7 +19,4 @@ A simple Discord bot designed to help manage messages in your server with variou
 
 ---
 
-### Usage  
-Add this bot to your server to efficiently manage message history and maintain a clutter-free environment.  
-
 For setup and customization, feel free to edit the code in the repository. 😊
